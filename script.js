@@ -11,6 +11,7 @@ var date = new Date();
 	let minPosition = (min*360/60) + (sec*(360/60)/60);
 	let secPosition = sec*360/60;
 
+--Saurabh
 
 function runClock()
 {
